@@ -1,5 +1,4 @@
 #!/usr/bin/python
-
 import crypt
 
 def testPass(hashlist):
