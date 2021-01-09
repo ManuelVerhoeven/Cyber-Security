@@ -6,3 +6,8 @@ passwordcracker.py
 
 portscanner.py
 - The port scanner requires the user to enter the IP address of the host that you wish to scan with a starting and ending port. The program will will output a list of all ports that are open.
+
+
+
+
+
